@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/add_contact" android:title="Add Contact" />
+    <item android:id="@+id/sort_ascending" android:title="Sort Ascending" />
+    <item android:id="@+id/sort_descending" android:title="Sort Descending" />
+    <item android:id="@+id/delete_multiple" android:title="Delete Multiple" />
+</menu>
